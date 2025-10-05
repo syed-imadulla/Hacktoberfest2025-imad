@@ -12,7 +12,7 @@ int main() {
             printf(" ");
         }
 
-        // Second inner loop for 
+        // Second inner loop for
         // printing alphabets
         for (int k = 0; k < rows - i; k++) {
             printf("%c ", 'A' + k);
